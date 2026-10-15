@@ -1,0 +1,188 @@
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\appsettings.json
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.API.staticwebassets.endpoints.json
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.API.exe
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.API.deps.json
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.API.runtimeconfig.json
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.API.dll
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.API.pdb
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.csproj.AssemblyReference.cache
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.AssemblyInfoInputs.cache
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.AssemblyInfo.cs
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.csproj.CoreCompileInputs.cache
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\scopedcss\bundle\AXA.Mandiri.Technical.Test.API.styles.css
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mand.DD56C6B9.Up2Date
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.dll
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\refint\AXA.Mandiri.Technical.Test.API.dll
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.pdb
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.genruntimeconfig.cache
+C:\Users\Yuriko Diego Saputra\source\repos\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\ref\AXA.Mandiri.Technical.Test.API.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\appsettings.Development.json
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\appsettings.json
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.API.staticwebassets.endpoints.json
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.API.exe
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.API.deps.json
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.API.runtimeconfig.json
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.API.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.API.pdb
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\EFCore.NamingConventions.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\MediatR.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\MediatR.Contracts.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Npgsql.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.Application.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.Domain.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.Infrastructure.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.Application.pdb
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.Infrastructure.pdb
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.Domain.pdb
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.csproj.AssemblyReference.cache
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.AssemblyInfoInputs.cache
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.AssemblyInfo.cs
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.csproj.CoreCompileInputs.cache
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\scopedcss\bundle\AXA.Mandiri.Technical.Test.API.styles.css
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\staticwebassets.build.json
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\staticwebassets.development.json
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\swae.build.ex.cache
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mand.DD56C6B9.Up2Date
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\refint\AXA.Mandiri.Technical.Test.API.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.pdb
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.API.genruntimeconfig.cache
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\ref\AXA.Mandiri.Technical.Test.API.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Humanizer.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Mono.TextTemplating.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Newtonsoft.Json.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\System.CodeDom.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\System.Composition.Convention.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\System.Composition.Hosting.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\System.Composition.Runtime.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\System.Composition.TypedParts.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\BCrypt.Net-Next.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Serilog.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Serilog.AspNetCore.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Serilog.Extensions.Hosting.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Serilog.Extensions.Logging.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Serilog.Formatting.Compact.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Serilog.Settings.Configuration.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Serilog.Sinks.Console.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Serilog.Sinks.Debug.dll
+d:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\bin\Debug\net10.0\Serilog.Sinks.File.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

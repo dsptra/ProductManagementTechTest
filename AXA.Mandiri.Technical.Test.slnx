@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AXA.Mandiri.Technical.Test.API/AXA.Mandiri.Technical.Test.API.csproj" />
+  <Project Path="AXA.Mandiri.Technical.Test.Application/AXA.Mandiri.Technical.Test.Application.csproj" />
+  <Project Path="AXA.Mandiri.Technical.Test.Domain/AXA.Mandiri.Technical.Test.Domain.csproj" />
+  <Project Path="AXA.Mandiri.Technical.Test.Infrastructure/AXA.Mandiri.Technical.Test.Infrastructure.csproj" />
+</Solution>

@@ -1,0 +1,15 @@
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.Application\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.Application.deps.json
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.Application\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.Application.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.Application\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.Application.pdb
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.Application\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.Domain.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.Application\bin\Debug\net10.0\AXA.Mandiri.Technical.Test.Domain.pdb
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.Application\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.Application.csproj.AssemblyReference.cache
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.Application\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.Application\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.Application.AssemblyInfoInputs.cache
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.Application\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.Application.AssemblyInfo.cs
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.Application\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.Application.csproj.CoreCompileInputs.cache
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.Application\obj\Debug\net10.0\AXA.Mand.A35AD2FD.Up2Date
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.Application\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.Application.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.Application\obj\Debug\net10.0\refint\AXA.Mandiri.Technical.Test.Application.dll
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.Application\obj\Debug\net10.0\AXA.Mandiri.Technical.Test.Application.pdb
+D:\Diego\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test\AXA.Mandiri.Technical.Test.Application\obj\Debug\net10.0\ref\AXA.Mandiri.Technical.Test.Application.dll
