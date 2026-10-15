@@ -1,9 +1,8 @@
 # AXA Mandiri Technical Test — Local Setup
 
 ## Prerequisites
-- [.NET 8 SDK](https://dotnet.microsoft.com/download)
-- [Visual Studio 2022](https://visualstudio.microsoft.com/)
-- [PostgreSQL](https://www.postgresql.org/download/) running on port `5432`
+- Visual Studio 2022
+- PostgreSQL running on port `5432`
 
 ---
 
